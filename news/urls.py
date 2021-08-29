@@ -6,3 +6,4 @@ urlpatterns = [
     path('test/',test)
 
 ]
+print('for green stuff')
