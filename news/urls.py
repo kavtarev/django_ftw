@@ -7,3 +7,4 @@ urlpatterns = [
 
 ]
 print('for green stuff')
+print('for green stuff')
